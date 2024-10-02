@@ -29,7 +29,7 @@ header {
 	}
 }
 
-main, .factsTitleContainer, .heroFactsTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
+main, .factsTitleContainer, .guideTitleContainer, .heroFactsTitle, .heroGuideTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
   width: 1320px;
   margin: 0 auto;
 }
@@ -167,7 +167,7 @@ main {
   background-size: cover;
   background-position: 0 70%;
   padding: 4em 0;
-  margin: 3em 0 0 0;
+	margin: 0 auto;
 }
 
 .heroLinksTitle {
@@ -175,7 +175,7 @@ main {
   background-size: cover;
   background-position: 0 55%;
   padding: 4em 0;
-  margin: 3em 0 0 0;
+	margin: 0 auto;
 }
 
 .heroFactsTitle h1, .heroGuideTitle h1, .heroInformationTitle h1, .heroLinksTitle h1 {
@@ -448,7 +448,7 @@ main {
 
 
 @media (max-width: 1400px) {
-	main, .factsTitleContainer, .heroFactsTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
+	main, .factsTitleContainer, .guideTitleContainer, .informationTitleContainer, .linksTitleContainer, .heroFactsTitle, .heroGuideTitle, .heroInformationTitle, .heroLinksTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
 		width: 1140px;
 		margin: 0 auto;
 	}
@@ -497,7 +497,7 @@ main {
 	}
 }
 @media (max-width: 1200px) {
-	main, .factsTitleContainer, .heroFactsTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
+	main, .factsTitleContainer, .guideTitleContainer, .informationTitleContainer, .linksTitleContainer, .heroFactsTitle, .heroGuideTitle, .heroInformationTitle, .heroLinksTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
 		width: 960px;
 		margin: 0 auto;
 	}
@@ -579,7 +579,7 @@ main {
 	}
 }
 @media (max-width: 992px) {
-	main, .factsTitleContainer, .heroFactsTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
+	main, .factsTitleContainer, .guideTitleContainer, .informationTitleContainer, .linksTitleContainer, .heroFactsTitle, .heroGuideTitle, .heroInformationTitle, .heroLinksTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
 		width: 720px;
 		margin: 0 auto;
 	}
