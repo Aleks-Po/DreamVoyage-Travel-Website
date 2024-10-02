@@ -545,7 +545,7 @@ main {
 	}
 	.galleryTitleContainer h1, .factsTitleContainer h1, .guideTitleContainer h1, .informationTitleContainer h1, .linksTitleContainer h1 {
 		letter-spacing: 0.08em;
-		padding: 1.3em 1em 0 1.8em;
+		padding: 1.3em 1.8em 0 1.8em;
 		font-size: 1.85em;
 	}
 	.mainContent {
