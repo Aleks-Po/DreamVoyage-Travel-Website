@@ -29,7 +29,7 @@ header {
 	}
 }
 
-main, .factsTitleContainer, .guideTitleContainer, .heroFactsTitle, .heroGuideTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
+main, .factsTitleContainer, .guideTitleContainer, .informationTitleContainer, .heroFactsTitle, .heroGuideTitle, .heroInformationTitle, .headerContainerWrap, .footerContainer, #mainContainer, #footerContainer {
   width: 1320px;
   margin: 0 auto;
 }
